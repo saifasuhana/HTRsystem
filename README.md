@@ -1,0 +1,3 @@
+- Developed and implemented a Handwritten Text Recognition (HTR) system using TensorFlow.
+- Utilised deep learning techniques, including Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), to accurately recognize and transcribe handwritten text.
+ - Preprocessed datasets, trained models on large handwriting datasets, and optimised performance for high accuracy and efficiency.
